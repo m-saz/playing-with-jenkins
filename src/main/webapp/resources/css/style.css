@@ -1,0 +1,38 @@
+html, body{
+	padding:0px; 
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	min-width: 950px;
+	background: #CCC;
+}
+
+ 
+.wrapper {width: 100%; margin-top: 0px; background: #CCC;}
+#header {width: 100%; background: #000; margin-top: 0px; padding:15px 0px 15px 15px;}
+#header h2 {width: 100%; margin:auto; color: #FFFFFF;}
+#container {width: 100%; margin:auto; background: #CCC}
+#container h3 {color: #000;}
+
+ 
+.header-link:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.header-link:visited {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+.header-link:hover {
+	color: #CCC;
+	text-decoration: none;
+}
+
+.header-link:active {
+	color: #CCCCCC;
+	text-decoration: none;
+}
+
+.failed {
+	color: #FF0033;
+}
